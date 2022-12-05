@@ -1,6 +1,11 @@
 # Shell.ai-2022-Submission [Team Disruptor]
 
 ## Top 20 General Edition / Top 4 University Edition
+
+ToDo: 
+1) Clean the code 
+2) Make pipelines and classes
+
 The main throught process of this solution can be divided into 2 parts: 
 1) Prediction of 2019 and 2020 demand data
 2) Optimal allocation of demand from each demand point to EV charging stations. 
